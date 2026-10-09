@@ -267,15 +267,6 @@ Data analytics project focused on analyzing accident-related information.
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varsh23-p&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 

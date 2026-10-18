@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Varsha Patil
+# 👋 Hi, I'm Varsha D. Patil
 
 ### 🚀 B.Tech IT Student | 💻 Web Developer | 📊 Data Analytics Enthusiast | 👩🏼‍💻 Software Engineering
 

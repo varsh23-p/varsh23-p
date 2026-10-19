@@ -292,8 +292,3 @@ Data analytics project focused on analyzing accident-related information.
 
 ### ✨ "Turning Ideas into Real-World Solutions through Code."
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=varsh23-p&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>

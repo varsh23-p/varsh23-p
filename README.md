@@ -16,6 +16,9 @@
   <a href="mailto:[varshadpatil23@gmail.com](mailto:varshadpatil23@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://varsha-portfolio-98kikv1dy-varsha-patils-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -138,6 +141,25 @@ An explainable AI framework for detecting fraudulent activity in blockchain tran
 
 ---
 
+## 🤝 SkillSwap — Student Skill Exchange Platform
+
+A web platform where students can teach skills they know and learn new skills from other students without exchanging money.
+
+**Features:**
+* Student registration and login
+* Skill listing and management
+* Smart skill matching
+* Exchange requests
+* Messaging system
+* Ratings and reviews
+* Dashboard and analytics
+
+**Technologies:**
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `Chart.js`
+
+---
+
 ## 📱 NMIMS Entry Exit QR System
 
 Android-based QR attendance and entry-exit management system.
@@ -242,6 +264,9 @@ Data analytics project focused on analyzing accident-related information.
 * 🔐 **Cybersecurity Analyst — TATA**
 * 📊 **Data Analytics Virtual Experience — Deloitte**
 * 📈 **Business Analysis — Coursera**
+* ☁️ **AWS Academy Graduate – Cloud Architecting**
+* 📋 **Managing Projects with AI**
+
 
 ---
 

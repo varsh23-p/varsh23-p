@@ -270,13 +270,17 @@ Data analytics project focused on analyzing accident-related information.
 
 ---
 
-# 📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=varsh23-p&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsh23-p&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/varsh23-p">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varsh23-p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/varsh23-p">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsh23-p&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -287,6 +291,22 @@ Data analytics project focused on analyzing accident-related information.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=varsh23-p&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/varsh23-p">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varsh23-p&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&area_color=8957e5&hide_border=true&custom_title=Varsha's%20Contribution%20Activity&radius=10&height=180"
+    width="85%"
+    alt="Varsha's GitHub Contribution Activity"
+  />
+</a>
 
 </div>
 

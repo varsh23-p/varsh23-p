@@ -271,18 +271,6 @@ Data analytics project focused on analyzing accident-related information.
 ---
 
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="stats.yml" alt="GitHub Statistics" />
-<img width="48%" src="stats.yml" alt="Top Languages" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">

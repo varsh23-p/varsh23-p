@@ -271,16 +271,13 @@ Data analytics project focused on analyzing accident-related information.
 ---
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/varsh23-p">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varsh23-p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/varsh23-p">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsh23-p&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</a>
+<img width="48%" src="stats.yml" alt="GitHub Statistics" />
+<img width="48%" src="stats.yml" alt="Top Languages" />
 
 </div>
 

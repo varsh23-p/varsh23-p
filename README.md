@@ -270,30 +270,32 @@ Data analytics project focused on analyzing accident-related information.
 
 ---
 
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=varsh23-p&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
+<h2 align="center">📊 My GitHub Statistics</h2>
 
 <div align="center">
 
-<a href="https://github.com/varsh23-p">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varsh23-p&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&area_color=8957e5&hide_border=true&custom_title=Varsha's%20Contribution%20Activity&radius=10&height=180"
-    width="85%"
-    alt="Varsha's GitHub Contribution Activity"
-  />
-</a>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsh23-p&layout=compact&langs_count=6&hide_border=false&bg_color=15121F&title_color=FF2E88&text_color=9EF7FF&border_color=30283B" />
+
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=varsh23-p&show_icons=true&include_all_commits=true&hide_border=false&bg_color=15121F&title_color=FF2E88&text_color=9EF7FF&icon_color=FFD43B&border_color=30283B" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img width="65%" src="https://streak-stats.demolab.com/?user=varsh23-p&background=15121F&border=30283B&stroke=FF2E88&ring=FF2E88&fire=FF2E88&currStreakNum=FFD43B&sideNums=FF2E88&currStreakLabel=FFD43B&sideLabels=9EF7FF&dates=9EF7FF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varsh23-p&bg_color=15121f&color=9ef7ff&line=ff2e88&point=ffd43b&area=true&hide_border=true" width="85%" alt="Varsha's GitHub Contribution Activity"/>
+
+</div>
+
 
 ---
 

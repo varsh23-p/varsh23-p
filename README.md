@@ -265,7 +265,7 @@ Data analytics project focused on analyzing accident-related information.
 
 ---
 
-<h2 align="center">📊 My GitHub Statistics</h2>
+# 📊 My GitHub Statistics
 
 <div align="center">
 

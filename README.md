@@ -7,17 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Web+Developer;Data+Analytics+Enthusiast;Building+Real-World+Projects;Learning+New+Technologies;Turning+Ideas+into+Solutions" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/varsh23-p">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/varsha-patil23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[varshadpatil23@gmail.com](mailto:varshadpatil23@gmail.com)">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://varsha-portfolio-98kikv1dy-varsha-patils-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=varsh23-p&label=PROFILE+VISITORS&color=FF2E88&style=for-the-badge" alt="Profile Visitors" />
   </a>
 </p>
 

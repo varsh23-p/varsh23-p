@@ -266,6 +266,7 @@ Data analytics project focused on analyzing accident-related information.
 * 📈 **Business Analysis — Coursera**
 * ☁️ **AWS Academy Graduate – Cloud Architecting**
 * 📋 **Managing Projects with AI**
+* ☁️ **NPTEL Cloud Computing — Elite Certificate (87%) | IIT Kharagpur**
 
 
 ---
